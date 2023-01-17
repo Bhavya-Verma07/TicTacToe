@@ -1,0 +1,14 @@
+In App.js file
+
+1. handleBoxClick is used to Update the board
+2. checkwinner function is used to Check if either player has won the game
+3. setXPlaying is used For changing the active player
+4. Iterate through win conditions and check if either player satisfies them
+
+
+Components:
+1. Four components are used.
+2. Board component, for making grid or layout of the game.
+3. Box component is used for each box element.
+4. ResetButton Component is used for making a button to restart game.
+5. ScoreBoard component is used for representing the score of each player after each round of game.
